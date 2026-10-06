@@ -13,3 +13,4 @@ Curso Aplicaciones Tecnológicas B — profesor: Bruno Perelli.
 | Lunes 2 de noviembre de 2026 | [Carpeta de la clase](clase-05/README.md) |
 | Lunes 9 de noviembre de 2026 | [Carpeta de la clase](clase-06/README.md) |
 | Lunes 16 de noviembre de 2026 | [Carpeta de la clase](clase-07/README.md) |
+
