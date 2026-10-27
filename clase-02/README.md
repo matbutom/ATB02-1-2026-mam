@@ -1,5 +1,6 @@
-# Clase — lunes 12 de octubre de 2026 - FERIADO
+# Clase — lunes 26 de octubre de 2026 - FERIADO
 
 **Profesor:** Bruno Perelli
 
 Materiales, apuntes y ejercicios de esta clase.
+
